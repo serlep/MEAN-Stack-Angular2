@@ -1,0 +1,29 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "Mean stack with Angular2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serlep/MEAN-Stack-Angular2.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular2",
+    "Application"
+  ],
+  "author": "Serlep Sherab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serlep/MEAN-Stack-Angular2/issues"
+  },
+  "homepage": "https://github.com/serlep/MEAN-Stack-Angular2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.1"
+  }
+}
